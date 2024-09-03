@@ -1,7 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm an AI agent developer crafting intelligent virtual assistants. Obsessed with AI characters and their potential.
+
+## My GitHub stats
+
+[![nike's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegnike&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegnike&hide=html,css,php,ruby,hcl&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**tegnike/tegnike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hodanov/hodanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
