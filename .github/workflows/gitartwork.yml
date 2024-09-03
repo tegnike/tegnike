@@ -12,7 +12,7 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
           # Use this username's contribution graph
-          user_name: hodanov
+          user_name: tegnike
           # Text on contribution graph
-          text: hodanov
+          text: tegnike
       - uses: jasineri/simple-push-action@v1
