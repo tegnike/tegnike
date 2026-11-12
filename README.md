@@ -8,7 +8,7 @@ I started as a web engineer in 2018, working mainly on Ruby on Rails backends al
 
 ## What I work on
 
-- **AI agents** — a business automation platform where an agent drafts a plan and runs it after the user approves, and a document conversion API that agents can call, with a Python SDK and an MCP server
+- **AI agents** — on a business automation service where people hand tasks to AI, I implemented the flow in which the AI drafts a plan and runs it after a person approves. I also worked on a service where AI scores and summarizes articles and turns them into audio
 - **AI characters** — long-term memory with vector search, speech synthesis, VRM avatars with lip sync and emotion-driven expressions
 - **Evaluating AI coding agents** — having agents generate code and design documents, then scoring the output by test pass rate and difference from reference answers
 
@@ -35,7 +35,7 @@ I develop and operate [AI Nike-chan](https://nikechan.com/about?lang=en), an AI 
 
 ## Experience
 
-- **2024–now: AI agent and AI character development (contract)** — the agent platform, document conversion API, and evaluation work listed above. Earlier: led the design of a long-term memory library for AI characters and moved its storage to vector search, and built the backend of a service that posts to X in an AI character's voice
+- **2024–now: AI agent and AI character development (contract)** — the business automation service, the article-to-audio service, and the evaluation work listed above. Earlier: led the design of a long-term memory library for AI characters and moved its storage to vector search, and built the backend of a service that posts to X in an AI character's voice
 - **2020–2024: Web services (contract)** — reservation, e-commerce, video streaming, and online lottery services, mainly with Ruby on Rails. Server-side lead engineer on a reservation service for about two years; sole developer of an online lottery site from requirements to operation
 - **2018–2021: Business systems** — a patient enrollment system for clinical trials in Java and C#, and a business management system in Ruby on Rails
 
